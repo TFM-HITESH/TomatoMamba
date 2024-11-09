@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from VMamba.classification.models_insect import build_vssm_models_ as our_model
+from VMamba.classification.models_tomato import build_vssm_models_ as our_model
 import torch.nn.functional as F
 
 
